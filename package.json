@@ -1,8 +1,8 @@
 {
   "name": "@strawci/interpreter",
   "description": "Action interpreter for StrawCI",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.1",
+  "main": "./src/index.js",
   "license": "MIT",
   "scripts": {
     "test": "node ./example"
